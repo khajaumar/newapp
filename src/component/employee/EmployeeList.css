@@ -1,0 +1,10 @@
+.employeeList{
+    background-color: rgb(231, 93, 43);
+    margin: 10px;
+    padding: 10px;
+}
+.employeeItem{
+    background-color: rgb(164, 164, 233);
+    margin: 10px;
+    padding: 10px;
+}

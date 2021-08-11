@@ -1,0 +1,7 @@
+.card{
+    display: inline-block;
+}
+.employeeCard{
+    background-color: salmon;
+    margin: 20px;
+}

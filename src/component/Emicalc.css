@@ -1,0 +1,12 @@
+#cal {
+    width: 400px;
+    height: 450px;
+    background-color: rgb(100, 100, 100);
+    box-shadow: 0 0 20px black;
+    border-radius: 15px;
+}
+#disp{
+    background-color: rgb(206, 203, 203);
+    border-radius: 5px;
+    border: inset;
+}
